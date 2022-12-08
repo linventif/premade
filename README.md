@@ -22,10 +22,10 @@ Download the latest version of the library from the [releases](https://linventif
 
 Need Help ? Join my discord and create a post in support.
 
-[![https://linventif.fr](https://i.imgur.com/UNSqmvK.png)](https://linventif.fr/discord)
+[![https://linventif.fr/discord](https://i.imgur.com/jG8Luis.png)](https://linventif.fr/discord)
 
 # License
 
 This work is licensed under the [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/).
 
-[![https://creativecommons.org/licenses/by-sa/4.0/](https://i.imgur.com/5zLnNqK.png)](https://creativecommons.org/licenses/by-sa/4.0/)
+[![https://creativecommons.org/licenses/by-sa/4.0/](https://i.imgur.com/OlWXFzL.png)](https://creativecommons.org/licenses/by-sa/4.0/)
