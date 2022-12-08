@@ -16,11 +16,12 @@ This is my library for Garry's Mod. It's a collection of functions that I use in
 
 # Installation
 
-Download the latest version of the library from the [releases](https://linventif.fr/gmod-lib/releases) page.
+1. Download the latest version of the addon from the code button, and click on the "Download ZIP" button.
+[![Download ZIP](https://i.imgur.com/XqH0HeD.png)](
 
 # Support & Discord
 
-Need Help ? Join my discord and create a post in support.
+Need Help ? Join my discord and create a ticket in the #support channel.
 
 [![https://linventif.fr/discord](https://i.imgur.com/jG8Luis.png)](https://linventif.fr/discord)
 
