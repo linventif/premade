@@ -1,5 +1,4 @@
 # Informations
-[...]
 
 Linventif PreMade is a premade for addon, script, weapon, entity, etc. for Garry's Mod.
 
@@ -28,9 +27,11 @@ To verify that the installation was successful, you can open the developer conso
 
 # Configuration & Language
 
-You can configure the addon in the `sh_config.lua` file.
+All the configuration of the addon is in then folder config.
 
-To add languages, you can add them in the `sh_lang.lua` file.
+To configure the addon, you can edit the `sh_config.lua` file.
+
+To add a language, you can edit the `sh_languages.lua` file.
 
 # Support & Discord
 
