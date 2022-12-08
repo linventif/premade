@@ -17,7 +17,7 @@ This is my library for Garry's Mod. It's a collection of functions that I use in
 # Installation
 
 1. Download the latest version of the addon from the code button, and click on the "Download ZIP" button.
-[![Download ZIP](https://i.imgur.com/XqH0HeD.png)](
+![Download ZIP](https://i.imgur.com/XqH0HeD.png)]
 
 # Support & Discord
 
