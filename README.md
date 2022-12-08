@@ -4,11 +4,11 @@ Linventif PreMade is a premade for addon, script, weapon, entity, etc. for Garry
 
 # Features
 
-- [X] [Premade addon (in development)]
+- Premade of addon
 
-- [O] [Premade weapon (not developed)]
+- Premade of weapon
 
-- [0] [Premade entity (not developed)]
+- Premade of entity
 
 # Requirements
 
