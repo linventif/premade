@@ -1,18 +1,18 @@
 # Introduction
 
-This is my library for Garry's Mod. It's a collection of functions that I use in my addons and scripts.
+Linventif PreMade is a premade for addon, script, weapon, entity, etc. for Garry's Mod.
 
 # Features
 
-- [x] [**Lib**] **Lib** is a library that contains all the functions of the other libraries. It is used to load the other libraries.
+- Premade addon (in development)
 
-- [x] [**Lib**] **Lib** is a library that contains all the functions of the other libraries. It is used to load the other libraries.
+- Premade weapon (not developed)
 
-- [x] [**Lib**] **Lib** is a library that contains all the functions of the other libraries. It is used to load the other libraries.
+- Premade entity (not developed)
 
 # Requirements
 
-- [Linventif Library](https://github.com/linventif/gmod-lib)
+- [Linventif Library](https://steamcommunity.com/sharedfiles/filedetails/?id=2882747990)
 
 # Installation
 
@@ -22,6 +22,11 @@ This is my library for Garry's Mod. It's a collection of functions that I use in
 4. Move the folder to your addons folder.
 
 To verify that the installation was successful, you can open the developer console and type `linventif_monitor` a derma panel should appear. If it doesn't, you need to install the requirements. In this panel, you can see all of the linventif's creation that you have installed and the version of each one. If you don't see the addon, make sure that you have correctly installed it. If you still have a problem, you can contact me on discord : https://linventif.fr/discord
+
+# Configuration & Language
+
+You can configure the addon in the `sh_config.lua` file.
+To add languages, you can add them in the `sh_lang.lua` file.
 
 # Support & Discord
 
