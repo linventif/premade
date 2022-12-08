@@ -27,7 +27,7 @@ To verify that the installation was successful, you can open the developer conso
 
 # Configuration & Language
 
-All the configuration of the addon is in then folder config.
+All the configurations files are in the `config` folder.
 
 To configure the addon, you can edit the `sh_config.lua` file.
 
