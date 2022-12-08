@@ -12,6 +12,8 @@ Linventif PreMade is a premade for addon, script, weapon, entity, etc. for Garry
 
 # Requirements
 
+- [X] [Garry's Mod](https://store.steampowered.com/app/4000/Garrys_Mod/)
+
 - [Linventif Library](https://steamcommunity.com/sharedfiles/filedetails/?id=2882747990)
 
 # Installation
