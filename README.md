@@ -29,7 +29,7 @@ To verify that the installation was successful, you can open the developer conso
 
 To configure the addon, you can edit the `sh_config.lua` file.
 
-To add a language, you can edit the `sh_languages.lua` file.
+To add a language, you can edit the `sh_langs.lua` file.
 
 # Support & Discord
 
