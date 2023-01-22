@@ -33,11 +33,9 @@ LinvLib.Install["premade"] = version
 
 // -- // -- // -- // -- // -- // -- // -- // -- // -- //
 
-include(folder .. "/sh_config.lua")
-print("| " .. name .. " | File Load | " .. folder .. "/sh_config.lua")
+LinvLib.Load(name, folder, {"sh_config.lua", "sh_language.lua"})
 
 if SERVER then
-    AddCSLuaFile(folder .. "/sh_config.lua")
     LinvLib.LoadWorkshop(workshop, name)
     LinvLib.LoadMaterials(folder .. "/materials", name)
 end
